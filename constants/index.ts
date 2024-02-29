@@ -98,3 +98,14 @@ export const footerLinks = [
         ],
     },
 ];
+
+export const footerOtherLinks = [
+    {
+        title: "Términos y Condiciones",
+        url: "/",
+    },
+    {
+        title: "Termino de uso",
+        url: "/",
+    },
+]
